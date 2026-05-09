@@ -1,38 +1,37 @@
 ## Hi there 👋
 
-I was honestly just trying to set up a website... I heard you could do it this way via Reddit, haha. I guess this is what they meant? It's not exactly what I was going for, but it works!
+I'm **doccy-dev** — a software development student with a growing interest in systems tooling, Linux, and open-source engineering.
 
-## Greetings
+## What I do
 
-I'm **doccy-dev**, a uni student who is still learning. The classroom only teaches you so much, so a lot of it is trial, error, and plenty of reading. One of my classmates asked, "Oh, why don't you just use **AI**?" Well, because I need to learn the logic before I start using a tool like that! There is no point in using AI if you don't understand what it's writing.
+I build small but focused tools that help me understand how operating systems work under the hood.  
+My main project is **Specc**, a lightweight system profiler for Ubuntu with strict confinement support.
 
-## What I'm working on
+Recently, I was invited to lead **StaxSpec**, a new system-profiling tool for the **StaxDash ecosystem**.  
+It’s an early-stage, open-source role, and I’m excited to help shape a tool that integrates across their platform.
 
-I’m currently working on **Specc**, but I’ve hit a bit of a roadblock. Until now, all my work has been Linux-based on the school computers. I recently got a laptop, but it runs Windows, so there is a lot to learn before I’m ready to convert my project into a Windows app. So far, I definitely prefer Linux-based OSs!
+## Interests
 
-## Future projects
+- Linux systems & hardware telemetry  
+- Snapcraft and strict confinement  
+- Python, Rust, and low-level tooling  
+- Cross-platform development  
+- Clean, maintainable CLI tools  
 
-If you look at my repos, you’ll see two projects: **tag-explorer** and **py-ping**. These are just ideas for now rather than active projects; I want to tackle them, but I need to level up my skills a bit more first.
+## Goals
 
-## Why I'm here
+My long-term goal is to work at **Canonical**, ideally contributing to Snapcraft or platform engineering.
 
-My dream is to work for **Canonical**, specifically on **Snapcraft**. I looked around the repo recently and it was well beyond my current level, so while it’s the ultimate goal (*and if you work at Canonical, put in a good word for me!*), I know I have a long way to go before I grasp a language well enough to make meaningful contributions.
+## Current stack
 
-## How’s study going?
+- **Python** (primary)
+- **C++** (studying at uni)
+- **Rust** (self-taught, favourite so far)
 
-So far, so good! I just started my second year and have managed to maintain **High Distinctions** across all my classes. I’m hoping to keep it up and maybe go for Honors, but it’s a little early to call that just yet.
+## Contact
 
-## Current languages
+I’m not active on social media.  
+GitHub is the best place to reach me for now.
 
-My studies so far have focused on **Python**, and this year we are moving into **C++**. I am also teaching myself **Rust**, and honestly, it’s my favorite so far—it feels like Python on steroids! I actually chose to learn Rust after finding out my uni doesn't teach it, though in my opinion, it should be taught alongside (or even over) C++.
+Email: _coming soon_
 
-## Want to connect?
-
-I don’t use social media. I generally disagree with the content on most platforms—LinkedIn feels like a lot of AI patting itself on the back, and Facebook is often "crisis this" and "end of the world" that (*no thank you*).
-
-The best way to reach me is right here on **GitHub**! I’ll be looking into the best way to stay reachable, but for now, feel free to check out my repos or leave feedback on my work.
-
-Email: _I'll make one soon!_
-Discord: _maby not sure how bad the platform is yet_
-
----
